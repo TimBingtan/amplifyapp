@@ -9,7 +9,7 @@ import {
   Card,
 } from "@aws-amplify/ui-react";
 
-/* Redo build */
+/*Debugging deployment*/
 
 function App({ signOut }) {
   return (
